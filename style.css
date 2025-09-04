@@ -1,11 +1,11 @@
 :root {
-    --color-primary: #4B69FD;
+    --color-primary: #FFFFFF;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
+    --color-button: #6e2a1e;
+    --color-button-hover: #e2cfc7;
     --color-text: #444444;
-    --color-white: #FFFFFF;
+    --color-white: #9c6163;
 }
 
 /* Estilos gerais */
@@ -42,7 +42,7 @@ body {
 /* Seção de entrada */
 .input-section {
     flex: 60%;
-    background-color: var(--color-secondary);
+    background-color: #956F71;
     border: 1px solid #000;
     border-radius: 64px 64px 0 0;
     display: flex;
@@ -128,7 +128,7 @@ button {
 /* Listas */
 ul {
     list-style-type: none;
-    color: var(--color-text);
+    color: #fce7e1;
     font-family: "Inter", sans-serif;
     font-size: 18px;
     margin: 20px 0;
@@ -136,7 +136,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #fafafa;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
